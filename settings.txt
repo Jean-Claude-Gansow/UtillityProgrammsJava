@@ -1,7 +1,7 @@
 x=120
 y=78
 width=455
-height=44
+height=500
 fontSize=22
 borderPadding=10
 borderColor=103,1,85
