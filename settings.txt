@@ -1,0 +1,8 @@
+x=120
+y=78
+width=455
+height=44
+fontSize=22
+borderPadding=5
+borderColor=103,1,85
+monitor=2
